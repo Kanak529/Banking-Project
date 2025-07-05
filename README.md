@@ -74,6 +74,7 @@ Inertia and Disengagement: Inactive customers with high financial stability may 
 
 7. Conclusion
 The Customer Churn Analysis Dashboard combines analytical rigor with business relevance. Through powerful visualizations and dynamic segmentation, it allows organizations to proactively manage churn and design smarter retention strategies—rooted in data and economic logic.
+![powerbi project img1](https://github.com/user-attachments/assets/4c4ed24c-05eb-47bd-b4e1-77ff0268680d)
 
 ![powerbi project img2](https://github.com/user-attachments/assets/16ef1745-253d-4133-8bfa-084879b60a19)
-![powerbi project img1](https://github.com/user-attachments/assets/3273c57c-d7ac-4f9c-8ce1-3f8349a13c92)
+
